@@ -1,4 +1,4 @@
-# Hands-on session Alliander workshop 11.05.2023
+# Hands-on session TBD
 
 In order to open this notebooks in an interactive way click on the binder symbol. The first time it might take some time as the docker image need to be build. Have a bit of patience!
 
